@@ -1,6 +1,3 @@
-# Exemplary-code-chunk
-
-
 # Description: 
 The provided code snippet is part of the Wave VII Maghreb Dataset project, focusing on transforming measures related to democracy in Algeria, Mauritania, Morocco, and Tunisia. It includes variables such as "Economic Performance Under Democracy," "Decisiveness of Democratic Regimes," "Effectiveness of Democratic Systems," and "Comparative Advantage of Democracy." These variables assess public perceptions of the impact of democracy on various aspects like economic performance and effectiveness in governance. The responses were recoded using a reversed scoring method, turning numerical responses into categorical factors to better represent levels of agreement or disagreement with the survey statements. This method clarifies the data and enhances the analysis of socio-political sentiments in these countries.
 
